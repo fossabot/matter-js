@@ -7,6 +7,7 @@
 [Demos](#demos) - [Gallery](#gallery) - [Features](#features) - [Plugins](#plugins) - [Install](#install) - [Usage](#usage) - [Examples](#examples) -  [Docs](#documentation) - [Wiki](https://github.com/liabru/matter-js/wiki) - [References](#references) - [License](#license)
 
 [![Build Status](https://travis-ci.org/liabru/matter-js.png?branch=master)](https://travis-ci.org/liabru/matter-js)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflukeout%2Fmatter-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflukeout%2Fmatter-js?ref=badge_shield)
 
 ### Demos
 
@@ -174,3 +175,6 @@ Copyright (c) 2014 Liam Brummitt
 
 This license is also supplied with the release and source code.  
 As stated in the license, absolutely no warranty is provided.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflukeout%2Fmatter-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflukeout%2Fmatter-js?ref=badge_large)
